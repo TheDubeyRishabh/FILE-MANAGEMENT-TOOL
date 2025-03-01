@@ -88,3 +88,5 @@ Future Enhancements
 
 Conclusion
 The File Management Tool is a simple yet effective C++ application that demonstrates the power of file handling operations. With its write, append, and read functions, users can efficiently store and manage text-based information.
+##  OUTPUT ##
+![Image](https://github.com/user-attachments/assets/5d8ea62c-e5e0-43bf-ba44-d3dad630d1d5)
